@@ -1,1 +1,1 @@
-# react_by_example
+- This repository for React Example by ES6.
